@@ -1,0 +1,15 @@
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.csproj.AssemblyReference.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.AssemblyInfoInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.AssemblyInfo.cs
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.csproj.CoreCompileInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\bin\Debug\net6.0\HomeDZ.exe
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\bin\Debug\net6.0\HomeDZ.deps.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\bin\Debug\net6.0\HomeDZ.runtimeconfig.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\bin\Debug\net6.0\HomeDZ.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\bin\Debug\net6.0\HomeDZ.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\refint\HomeDZ.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\HomeDZ.genruntimeconfig.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminar\HomeDZ\obj\Debug\net6.0\ref\HomeDZ.dll
